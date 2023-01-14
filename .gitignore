@@ -1,0 +1,13 @@
+.encryptedKey.json
+# vscode
+.vscode
+
+# hardhat
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+
+.env
